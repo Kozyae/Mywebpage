@@ -1,0 +1,293 @@
+body {}
+ 
+
+
+
+.textbox { 
+    text-align: center;
+}
+.top { background: blue}
+.header { background: #FF0000; }
+
+
+.gobal-navbar{
+    padding: 15px 125px;
+    box-shadow: 0 0 5px #bbb;
+    height: 75px; 
+    background-color: #fff;
+    
+}
+
+.buttontop{
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+.buttontop2{
+    padding-left: 30px;
+}
+
+
+.icon{
+    margin-left: 20px;
+    
+}
+.content{
+    margin-top: 30px;
+}
+
+.gobal-topic{
+    margin-top: 75px;
+    padding-top: 7%;
+}
+
+
+.topic{
+
+    text-align: center;
+    font-size: 63px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.topic1{
+    text-align: center;
+    font-size: 63px;
+    font-family: 'Kanit', sans-serif;
+       
+}
+.topic2{
+    margin-top: 15px;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+.box{
+    padding: 40px 125px;
+
+}
+
+.footer{
+    background-color:#f4d06f;
+    padding: 0px 15px;
+}
+
+.footer{
+    
+    padding: 50px 125px;
+}
+
+.text-upercase{
+    background-color: #f4d06f;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-style: solid;
+    border-color: #f4d06f;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    margin-right: 20px;
+}
+
+.navtop{
+    font-family: 'Kanit', sans-serif;
+    background-color: #f4d06f;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    margin-left: 5px;
+    padding: 0.4em 1.8em;
+    color: black;
+}
+.navtop2{
+    font-family: 'Kanit', sans-serif;
+    border-width: 1.5px;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-color: #f4d06f;
+    border-style: solid;
+    margin-left: 5px;
+    padding: 0.4em 1.8em;
+    color:black;
+}
+.navtop3{
+    font-family: 'Kanit', sans-serif;
+    color: black;
+}
+
+
+
+
+.k{
+    margin-top: 15px;
+
+}
+.s{
+    margin-top: 20px;
+    background:white;
+    height: 120px;
+    width: 100%;
+}
+.margin-bottom-20{
+    margin-top: 10px;
+}
+.row-upercase{
+    padding: 40px;
+    
+}
+
+.content-footer{
+    margin-top: 15px;
+    color: white;
+ 
+}
+.margin-top-20{
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+
+.a{
+    margin-top: 30px;
+
+}
+.copyright{
+    margin-top: 30px;
+    padding: 15px;
+   
+}
+.copyright-link{
+    
+    color: white;
+}
+
+.circle-white-icon{
+    width: 30px;
+    height: 30px;
+   
+    
+}
+
+.hmb-menu{
+    visibility: hidden;
+    
+}
+
+.mr-auto{
+
+    visibility: visible;
+    margin-left: 30%;
+
+}
+
+
+.full-menu-list{
+    margin-left: 30px;
+    background-color: #fff;
+}
+
+
+.abcd{
+   margin-bottom: 15px;
+   background-color:white;
+   
+}
+
+.faqs-text{
+    
+    color: black;
+    text-align: left;
+}
+
+.faqs-banner{
+    background: #f4d06f;
+    text-align: center;
+    margin-bottom: 20px;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    padding: 10px;
+    font-family: 'Kanit', sans-serif;
+    
+}
+
+.cardmargin-bottom-15{
+    border-style: ridge;
+    padding: 1.25rem;
+}
+
+
+.card-banner{
+
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+
+
+@media (max-width: 1200px){
+
+    
+.mr-auto{
+    visibility: visible;
+    margin-left: 5%;
+    
+}
+}
+
+
+
+
+
+@media (max-width: 991px) { 
+
+.hmb-menu{
+    visibility: visible;
+    
+}
+.mr-auto{
+    display: none;
+    margin-left: 0%;
+}
+
+.gobal-navbar{
+    height: unset;
+    padding: 17.5px 25px;
+}
+
+.topic{
+        
+    font-size: 50px;
+}
+
+.box{
+        
+    margin: 20px;
+}
+
+.a{
+    margin-top: 0px;
+}
+.footer{
+    padding: 50px 25px ;
+}
+.copyright{
+        
+        margin: 0px;
+        padding: 0px;
+       
+}
+
+}
+
+ 
+@media (max-width: 756px){
+
+    
+
+}
+
